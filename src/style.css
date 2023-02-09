@@ -13,7 +13,6 @@
 
 .section-side2 {
   border: 1px solid black;
-  height: 5px;
   border-radius: 5px;
 }
 
@@ -32,14 +31,36 @@
 
 .btn-1 {
   border: 1px solid black;
-  width: 60px;
+  width: 66px;
   border-radius: 6px;
+  height: 28px;
+}
+
+.name {
+  width: 190px;
+  height: 25px;
+  border-radius: 8px;
+}
+
+#parag {
+  padding-top: 5px;
+}
+
+.score {
+  width: 190px;
+  height: 25px;
+  border-radius: 8px;
 }
 
 .btn-2 {
   border: 1px solid black;
-  width: 60px;
+  width: 64px;
   border-radius: 6px;
   height: 25px;
-  margin-left: 105px;
+  margin-left: 65%;
+}
+
+.list li {
+  list-style-type: none;
+  text-decoration: none;
 }
