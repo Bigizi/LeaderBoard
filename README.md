@@ -76,13 +76,11 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
+git clone [https://github.com/Bigizi/LeaderBoard]
+
 ### Install
 
-Install any code editor in your computer
-
-clone the repo using this command:
-
-git clone []
+Install any code editor in your computer the follow the step above to clone the repository
 
 ### Usage
 
@@ -118,6 +116,7 @@ Navigating to your repo use this command: cd [directory-name]
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
@@ -125,7 +124,7 @@ Contributions, issues, and feature requests are welcome!
 
 >This project will help you to know step by step to build a to-do-list project using HTML, CSS and JAVASCRIPT
 
-If you like this project...
+If you like this project star it
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,3 +133,11 @@ If you like this project...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 > I would like to thank all my coding partners, morning session team and stand up call team for the support.
 <p align="right">(<a href="#acknowledgements">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
