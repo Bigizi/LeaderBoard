@@ -80,8 +80,8 @@ Clone this repository to your desired folder:
 
 ### Install
 
-. cd my-project
-. npm install
+- cd my-project
+- npm install
 
 ### Usage
 
