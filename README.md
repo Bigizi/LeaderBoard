@@ -76,7 +76,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-git clone [https://github.com/Bigizi/LeaderBoard]
+[git clone](https://github.com/Bigizi/LeaderBoard)
 
 ### Install
 
@@ -138,6 +138,6 @@ If you like this project star it
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./License.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
