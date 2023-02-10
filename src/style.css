@@ -16,13 +16,24 @@
   border-radius: 5px;
 }
 
+body {
+  background-color: gainsboro;
+}
+
 .container {
+  background-color: white;
+  margin-top: 8%;
+  width: 55%;
+  margin-left: 22%;
+  height: 380px;
+}
+
+.container1 {
   display: flex;
   flex-direction: row;
-  gap: 80px;
+  gap: 90px;
   justify-content: center;
   align-items: center;
-  margin-top: 10%;
 }
 
 .last-section {
@@ -36,19 +47,36 @@
   height: 28px;
 }
 
+.btn-1:hover {
+  cursor: pointer;
+  background-color: azure;
+  font-weight: bold;
+}
+
+#h1 {
+  text-align: center;
+}
+
 .name {
   width: 190px;
-  height: 25px;
+  height: 28px;
   border-radius: 8px;
 }
 
 #parag {
   padding-top: 5px;
+  color: black;
+  font-weight: bold;
+}
+
+#paragr {
+  color: black;
+  font-weight: bold;
 }
 
 .score {
   width: 190px;
-  height: 25px;
+  height: 28px;
   border-radius: 8px;
 }
 
@@ -60,7 +88,15 @@
   margin-left: 65%;
 }
 
-.list li {
+.btn-2:hover {
+  cursor: pointer;
+  background-color: azure;
+  font-weight: bold;
+}
+
+.list {
   list-style-type: none;
-  text-decoration: none;
+  padding-top: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
